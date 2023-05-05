@@ -55,6 +55,15 @@ Here are some ideas to get you started:
 </p>
 
 
+<a href="https://github.com/Kantat626">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kantat626&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/Kantat626">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Kantat626&show_icons=true&count_private=true&theme=synthwave&hide=contribs" />
+</a>
+<a href="https://github.com/Kantat626">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Kantat626&theme=dracula" />
+</a>
 
 ![Kantat's github stats](https://github-readme-stats.vercel.app/api?username=Kantat626&show_icons=true&count_private=true&theme=synthwave&hide=contribs)
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kantat626&theme=dracula)
